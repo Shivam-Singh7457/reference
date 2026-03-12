@@ -1,0 +1,36 @@
+body{
+font-family:Arial;
+text-align:center;
+background:#f4f4f4;
+}
+
+.nav{
+background:#333;
+padding:10px;
+}
+
+.nav a{
+color:white;
+margin:15px;
+text-decoration:none;
+}
+
+.event-box{
+background:white;
+padding:20px;
+margin:20px;
+border-radius:8px;
+box-shadow:0 3px 10px rgba(0,0,0,0.2);
+}
+
+button{
+padding:10px 20px;
+background:#333;
+color:white;
+border:none;
+cursor:pointer;
+}
+
+button:hover{
+background:#ff6600;
+}
